@@ -10,7 +10,9 @@ ps. 데이터 셋을 더 확장하기 위해 개인적으로 수집한 마스크
 
 ## 데이터셋 다운로드
 일부 오리지날 샘플은 본 github 스테이션에 업로드 되었으며, RMFD_part_1은 직접 다운로드 받아서 사용할 수 있으며, RMFD_part_2 (4개의 압축파일)와 RMFD_part_3 (3개의 압축파일)는 압축파일 전체를 다운로드한 후 압축해제가 필요합니다. 다운로드 주소는 아래와 같습니다.
+
 다운로드 링크: https://pan.baidu.com/s/1Vly3K-0qjlB6M2lenTZ8PA 비밀번호: xhze
+
 또는 다운로드 링크: https://drive.google.com/open?id=1kZAIiv34Iav9Vt8BB101FXo4KoEClpx9
 
 얼굴 마스크 인식(또는 검사) 데이터 셋과 달리 마스크 인식 데이터셋은 마스크와 마스크를 착용하지 않은 사람의 얼굴 이미지를 모두 포함해야 하기 때문에 두 가지 마스크 인식 샘플 집합을 만들었다.
@@ -18,15 +20,13 @@ ps. 데이터 셋을 더 확장하기 위해 개인적으로 수집한 마스크
 1. 실제 마스크 안면 인식데이터셋: 인터넷상에서 샘플을 채취해 정리, 클리닝, 레이블링 한 결과, 525명이 착용한 마스크 5000장을 포함해 9만 명의 얼굴 데이터를 얻을 수 있었다.
 다운로드 링크: https://pan.baidu.com/s/1XvGepj84SCA9rlVb9rGhEQ 비밀번호：j3aq
 또는 다운로드 링크: https://drive.google.com/open?id=1UlOk6EtiaXTHylRUx2mySgvJX9ycoeBp
-
 2. Simulated 마스크 안면 인식 데이터셋: 데이터가 공개된 사람의 얼굴에 마스크를 씌워 1만명, 50만 장의 얼굴을 얻은 아날로그 마스크 얼굴 데이터 집합이다.
-WebFace 아날로그 마스크 안면 데이터셋
-다운로드 링크: https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA 비밀번호: 77m8
-또는 다운로드 링크: https://drive.google.com/open?id=1q0ibaoFVEmXrjlk3-Oyx2oYR8HpVy6jc
-
+  WebFace 아날로그 마스크 안면 데이터셋
+  다운로드 링크: https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA 비밀번호: 77m8
+  또는 다운로드 링크: https://drive.google.com/open?id=1q0ibaoFVEmXrjlk3-Oyx2oYR8HpVy6jc
 3. LFW Simulated 마스크 안면 데이터셋
-다운로드 링크：https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg 비밀번호: o126
-또는 다운로드 링크: https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
+  다운로드 링크：https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg 비밀번호: o126
+  또는 다운로드 링크: https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
 
 ## 마스크 안면 인식
 구축된 데이터 집합에 기초하여 얼굴-눈썹 multi-granularity mask face recognition 모델을 설계 및 훈련하였으며, 데이터 집합의 식별정도가 95%에 달함.
@@ -173,7 +173,7 @@ Download link: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow Password: acwe
 ## Related Work
 
 https://arxiv.org/abs/2003.09093
- 
+
 ## Examples of Raw Samples
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
