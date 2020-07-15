@@ -31,6 +31,7 @@ WebFace 아날로그 마스크 안면 데이터셋
 ## 마스크 안면 인식
 구축된 데이터 집합에 기초하여 얼굴-눈썹 multi-granularity mask face recognition 모델을 설계 및 훈련하였으며, 데이터 집합의 식별정도가 95%에 달함.
 다운로드 링크: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow 비밀번호: acwe 
+
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/hzb.gif)
@@ -39,6 +40,7 @@ WebFace 아날로그 마스크 안면 데이터셋
 https://arxiv.org/abs/2003.09093
 
 ## 데이터셋 샘플 예시
+
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0001.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0002.jpg)
